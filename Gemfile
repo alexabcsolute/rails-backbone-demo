@@ -18,6 +18,8 @@ group :assets do
 	gem 'compass-rails'
 	gem 'bootstrap-sass-rails'
   gem 'gon'
+  gem 'therubyracer'
+  gem 'autoprefixer-rails'
 
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
